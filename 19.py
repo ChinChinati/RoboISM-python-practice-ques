@@ -1,7 +1,7 @@
 import random 
 x= random.randint(1000,9999)
 x= str(x)
-print(x)
+#print(x)
 for n in range(0,10):
 
  result = ['B' ,'B', 'B', 'B']
